@@ -16,7 +16,7 @@
  1. Evenly spaced melt pool fluctuation data (say, from a high fidelity simulation, or optical microscopy of single tracks)
  2. The resolution of the fluctuation data, either in distance or time units (microns were used for development)
  In general, the worflow would be to
-1. Import the spectral matching class from 'spectral_matcher.py'
-2. Instantiate the 'SpectralMatcher' class with the experimental data sequence and resolution as inputs
-3. Call the 'gen_equivalent_fluctuation' function to get an output sequence
-   Note that 'return_all=True' can be used to get information on the spectral densities of the input and output to verify that they are equivalent. This can be seen in 'test.py'.
+1. Import the spectral matching class from `spectral_matcher.py`
+2. Instantiate the `SpectralMatcher` class with the experimental data sequence and resolution as inputs
+3. Call the `gen_equivalent_fluctuation` method to get an output sequence
+   Note that `return_all=True` can be used to get information on the spectral densities of the input and output to verify that they are equivalent. This can be seen in `test.py`.
