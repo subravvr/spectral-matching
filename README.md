@@ -1,5 +1,7 @@
 # Spectral matching algorithm
  Source code for the spectral matching algorithm, along with input data for the IN718 dataset.
+ The spectral matching algorithm was developed to rapidly generate statistically equivalent melt pool geometry fluctuations for studying stochastic lack-of-fusion defects.
+ Input data - 1) melt pool measurments as a time-series, e.g. from optical microscopy of line scans; 2) the resolution/spacing between the measurements in length or time.
 
 # Required libraries
  The spectral matching algorithm requires numpy, scipy, and matplotlib (for test case plotting) installed in the local python environment.
