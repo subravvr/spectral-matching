@@ -22,3 +22,7 @@
 2. Instantiate the `SpectralMatcher` class with the experimental data sequence and resolution as inputs
 3. Call the `gen_equivalent_fluctuation` method to get an output sequence
    Note that `return_all=True` can be used to get information on the spectral densities of the input and output to verify that they are equivalent. This can be seen in `test.py`.
+
+# Citation
+
+If you use the source code please cite the Zenodo DOI [![DOI](https://zenodo.org/badge/995474139.svg)](https://doi.org/10.5281/zenodo.15587660)
