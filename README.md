@@ -5,7 +5,7 @@
  The spectral matching algorithm requires numpy, scipy, and matplotlib (for test case plotting) installed in the local python environment.
 
 # Running the test cases
- To run the test cases, call /path/to/local/python test.py (making sure the above libraries are installed). The three cases are
+ To run the test cases, call `/path/to/local/python test.py` (making sure the above libraries are installed). The three cases are
  1. Simple superposition of 3 cosines.
  2. Superposition of 50 cosines parametrized by random amplitude, period, and phase. Note that a seed is set so the output will be consistent.
  3. Width and depth data for IN718 melt pool variations.
