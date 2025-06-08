@@ -25,4 +25,4 @@
 
 # Citation
 
-If you use the source code please cite the Zenodo DOI [![DOI](https://zenodo.org/badge/995474139.svg)](https://doi.org/10.5281/zenodo.15587660)
+If you use the source code please cite the Zenodo DOI at [![DOI](https://zenodo.org/badge/995474139.svg)](https://doi.org/10.5281/zenodo.15587660).
